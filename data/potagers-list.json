@@ -1,0 +1,170 @@
+[
+	{
+		"name": "Jardin Dedaine",
+		"location": "Plouzané",
+		"id": 0,
+		"description": "Vente de fruits bio. Plaisir et vitamines garantis ! ",
+        "vegetables": [
+            {
+                "name": "Tomate",
+                "quantity": 0
+            },
+            {
+                "name": "Pomme de terre",
+                "quantity": 0
+            },
+            {
+                "name": "Courgette",
+                "quantity": 0
+            },
+            {
+                "name": "Fraise",
+                "quantity": 150
+            },
+            {
+                "name": "Poire",
+                "quantity": 86
+            }
+        ]
+	},
+	{
+		"name": "Les 3 feuilles",
+		"location": "Plouzané",
+		"id": 1,
+		"description": "Vente de légumes à partir de semence paysannes",
+        "vegetables": [
+            {
+                "name": "Tomate",
+                "quantity": 32
+            },
+            {
+                "name": "Pomme de terre",
+                "quantity": 25
+            },
+            {
+                "name": "Courgette",
+                "quantity": 27
+            },
+            {
+                "name": "Fraise",
+                "quantity": 0
+            },
+            {
+                "name": "Poire",
+                "quantity": 0
+            }
+        ]
+	},
+    {
+        "name": "Maraîcher de Plouzané",
+        "id": 2,
+        "description": "Maraîcher bio",
+        "location": "Plouzané",
+        "vegetables": [
+            {
+                "name": "Tomate",
+                "quantity": 0
+            },
+            {
+                "name": "Pomme de terre",
+                "quantity": 30
+            },
+            {
+                "name": "Courgette",
+                "quantity": 75
+            },
+            {
+                "name": "Fraise",
+                "quantity": 0
+            },
+            {
+                "name": "Poire",
+                "quantity": 0
+            }
+        ]
+    },
+    {
+        "name": "Ramène ta fraise",
+        "id": 3,
+        "description": "Vendeur de fraise",
+        "location": "Plougastel",
+        "vegetables": [
+            {
+                "name": "Tomate",
+                "quantity": 0
+            },
+            {
+                "name": "Pomme de terre",
+                "quantity": 0
+            },
+            {
+                "name": "Courgette",
+                "quantity": 0
+            },
+            {
+                "name": "Fraise",
+                "quantity": 34
+            },
+            {
+                "name": "Poire",
+                "quantity": 0
+            }
+        ]
+    },
+    {
+        "name": "La Pomme de terre de Brest",
+        "id": 4,
+        "description": "Agriculteur de Pomme de terre",
+        "location": "Brest",
+        "vegetables": [
+            {
+                "name": "Tomate",
+                "quantity": 0
+            },
+            {
+                "name": "Pomme de terre",
+                "quantity": 52
+            },
+            {
+                "name": "Courgette",
+                "quantity": 0
+            },
+            {
+                "name": "Fraise",
+                "quantity": 0
+            },
+            {
+                "name": "Poire",
+                "quantity": 0
+            }
+        ]
+    },
+    {
+        "name": "Se fendre la poire",
+        "id": 5,
+        "description": "Arboriculteurs bio",
+        "location": "Plougonvelin",
+        "vegetables": [
+            {
+                "name": "Tomate",
+                "quantity": 0
+            },
+            {
+                "name": "Pomme de terre",
+                "quantity": 0
+            },
+            {
+                "name": "Courgette",
+                "quantity": 0
+            },
+            {
+                "name": "Fraise",
+                "quantity": 0
+            },
+            {
+                "name": "Poire",
+                "quantity": 15
+            }
+        ]
+    }
+]
